@@ -43,9 +43,6 @@
 |-----------|---------------|
 | ![Add](docs/ss-add.png) | ![Details](docs/ss-detail.png) |
 
-| Dark Mode | Light Mode |
-|-----------|-----------|
-| ![Dark](docs/ss-dark.png) | ![Light](docs/ss-light.png) |
 
 ---
 
