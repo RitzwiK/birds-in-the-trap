@@ -33,7 +33,6 @@
 
 ## 📸 Screenshots
 
-> Replace the placeholders below with actual screenshots once the app is running.
 
 | Home Page | View Members |
 |-----------|-------------|
