@@ -43,9 +43,6 @@
 |-----------|---------------|
 | ![Add](docs/ss-add.png) | ![Details](docs/ss-detail.png) |
 
-| Dark Mode | Light Mode |
-|-----------|-----------|
-| ![Dark](docs/ss-dark.png) | ![Light](docs/ss-light.png) |
 
 ---
 
@@ -279,36 +276,12 @@ image         → [file upload]
 
 ---
 
-## 📤 How to Push to GitHub
 
-```bash
-# From the root of the project
-cd birds-in-the-trap
-
-# Initialize git (only needed once)
-git init
-
-# Add all files
-git add .
-
-# First commit
-git commit -m "feat: initial commit – Birds in the TRAP team management app"
-
-# Create repo on GitHub named 'birds-in-the-trap' (public)
-# Then link it:
-git remote add origin https://github.com/<YOUR_USERNAME>/birds-in-the-trap.git
-git branch -M master
-git push -u origin master
-```
-
----
-
-## 📜 License
-
-MIT – built for 21CSS301T Full Stack Development, SRM Institute of Science and Technology.
 
 ---
 
 <div align="center">
-  <sub>Built with 🔥 by Birds in the TRAP · SRM IST Chennai · 2024</sub>
+  <sub>Built by RITWIK KUMAR(RA2311027010089)</sub>
+    
 </div>
+
