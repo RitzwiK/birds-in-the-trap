@@ -310,5 +310,6 @@ MIT – built for 21CSS301T Full Stack Development, SRM Institute of Science and
 ---
 
 <div align="center">
-  <sub>Built with 🔥 by Birds in the TRAP · SRM IST Chennai · 2024</sub>
+  <sub>Built by RITWIK KUMAR(RA2311027010089)</sub>
+    
 </div>
